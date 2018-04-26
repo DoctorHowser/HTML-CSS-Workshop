@@ -1,0 +1,26 @@
+* {
+    font-family: sans-serif
+}
+
+p {
+  color: red;
+  direction: rtl;
+  font-size: 25px;
+}
+
+h3 {
+  font-size: 40px;
+}
+
+div {
+  border: solid 1px;
+  padding: 25px;
+  margin: 5px;
+  border-radius: 50px;
+}
+
+li {
+  list-style: none;
+}
+
+
